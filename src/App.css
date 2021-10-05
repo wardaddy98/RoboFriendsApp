@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Lo Spaccone Regular';
+    font-style: normal;
+    font-weight: lighter;
+    src: local('Lo Spaccone Regular'), url('Lo Spaccone.woff') format('woff');
+    }
+
+    h1{
+        font-family: Lo Spaccone Regular;
+    }
